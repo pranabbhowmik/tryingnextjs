@@ -13,7 +13,6 @@ export default function Home() {
         <HeroSection />
         <FeatyredCourses />
         <StickyScrollRevealDemo />
-
         <TestomonialCards />
         <HoverWebinor />
         <InstractedWave />
