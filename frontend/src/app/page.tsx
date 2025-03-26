@@ -1,7 +1,6 @@
 import HeroSection from "@/components/HeroSection";
 import FeatyredCourses from "@/components/FeatyredCourses";
 import { StickyScrollRevealDemo } from "@/components/StickyScrollRevealDemo";
-import Macnook from "@/components/Macnook";
 import TestomonialCards from "@/components/TestomonialCards";
 import HoverWebinor from "@/components/HoverWebinor";
 import InstractedWave from "@/components/InstractedWave";
@@ -14,7 +13,7 @@ export default function Home() {
         <HeroSection />
         <FeatyredCourses />
         <StickyScrollRevealDemo />
-        {/* <Macnook /> */}
+
         <TestomonialCards />
         <HoverWebinor />
         <InstractedWave />
